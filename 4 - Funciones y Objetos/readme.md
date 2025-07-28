@@ -516,36 +516,6 @@ const calcularVolumenCaja = (largo, ancho, altura) => largo * ancho * altura;
 13. **`13_find.js`** - Búsqueda de elementos
 14. **`14_sort.js`** - Ordenamiento de arrays
 
-## 🚀 Proyecto Final: Sistema de Gestión de Inventario
-
-### Descripción
-Desarrollar un sistema completo de gestión de inventario que integre todos los conceptos aprendidos: funciones modulares, manipulación de arrays, programación funcional y lógica de negocio compleja.
-
-### Características Principales
-- CRUD de productos (Crear, Leer, Actualizar, Eliminar)
-- Sistema de búsqueda y filtrado avanzado
-- Cálculos de inventario y reportes
-- Validaciones de datos
-- Interfaz de usuario interactiva
-
-### Funcionalidades
-1. **Gestión de Productos**
-   - Agregar nuevos productos
-   - Modificar información existente
-   - Eliminar productos
-   - Validar datos de entrada
-
-2. **Análisis y Reportes**
-   - Calcular valor total del inventario
-   - Productos con stock bajo
-   - Productos más caros/baratos
-   - Agrupación por categorías
-
-3. **Búsqueda y Filtrado**
-   - Buscar por nombre o código
-   - Filtrar por categoría, precio, stock
-   - Ordenar por diferentes criterios
-
 ## 🔧 Ejercicios Prácticos Avanzados
 
 ### Ejercicio 1: Procesador de Transacciones
@@ -603,31 +573,6 @@ Implementar un sistema completo que:
 - [Codewars - Functional Programming](https://www.codewars.com/kata/search/javascript?q=%23functional-programming)
 - [HackerRank - Functional Programming](https://www.hackerrank.com/domains/fp)
 - [LeetCode - Array Problems](https://leetcode.com/problemset/all/?topicSlugs=array)
-
-## 🏆 Certificación y Evaluación
-
-### Proyecto Final Evaluativo
-Para completar el curso, los estudiantes deben desarrollar un proyecto que demuestre:
-
-1. **Arquitectura Modular** (25%)
-   - Funciones bien definidas y reutilizables
-   - Separación de responsabilidades
-   - Código organizado y mantenible
-
-2. **Programación Funcional** (25%)
-   - Uso efectivo de map, filter, reduce
-   - Funciones puras sin efectos secundarios
-   - Composición de funciones
-
-3. **Lógica Compleja** (25%)
-   - Algoritmos de procesamiento de datos
-   - Manejo de casos edge
-   - Validaciones robustas
-
-4. **Mejores Prácticas** (25%)
-   - Código limpio y legible
-   - Nombres descriptivos
-   - Documentación adecuada
 
 ## 🚀 Próximos Pasos en tu Carrera
 
